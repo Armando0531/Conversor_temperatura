@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Aplicación ANDROID [Spinner]</string>
+    <string name="app_name">Conversor Android</string>
     <string name="lbl_Convertir">Convertir:</string>
 
     <string-array name="Converciones">
